@@ -1,0 +1,139 @@
+body{
+    border: groove black 5px;
+    margin: 0;
+   padding: 0;
+   background-color: rgb(238, 216, 216);
+}
+.one{
+    background-color: white;
+    color: red;
+    height: 100px;
+    width: 370px;
+    border: red solid 7px;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    margin: auto;
+    box-shadow: 5px 5px #712B75;
+}
+.border{
+    border: 10px groove rgb(6, 128, 12);
+    margin-top: 20px;
+}
+.dabba{
+   margin: 10px ;
+}
+.one1{
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+}
+.one2{
+    position: relative;
+    margin-right: 80px;
+    float: right;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+    text-align: center;
+}
+.dabba1{
+    margin: 10px;
+ }
+
+.one3{
+    display: inline-block;
+    position: relative;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+}
+
+.one4{
+    position: relative;
+    margin-right: 80px;
+    float: right;
+    background-color: white;
+    height: 240px;
+    width: 220px;
+    border: solid red 7px;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px rgb(39, 19, 22);
+    box-shadow: 5px 5px #712B75;
+    
+}
+
+.submit{
+    background-color: red;
+    border-radius: 20px;
+}
+.fixed{
+    position: fixed;
+    background-color: #38eb35;
+    color: red;
+    font-style: italic;
+    left: 320px;
+    bottom: 30px;
+    width: 640px;
+    height: 80px;
+    border: 8px solid red;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 5px 5px #d768dd;
+  }
+  
+  .border2{
+    background-color: rgb(130, 240, 130);
+    border: groove 10px purple;
+    width: 75%;
+    margin: auto;
+    margin-top: 10vh;
+}
+.welcome{
+    text-align: center;
+    font-weight: bold;
+}
+.list{
+    display: inline-block;
+    position: relative 10px ;
+    background-color: yellow;
+    font-style: italic;
+    height: 220px;
+    width: 410px;
+    text-align: center;
+    padding: 10px;
+margin-left: 50px;
+   
+   
+}
+.others{
+    position: relative;
+    background-color: yellow;
+    font-style: italic;
+    text-align: center;
+    padding: 7px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
